@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    // theme trigger.dev
+    "triggerdotdev.trigger.dev",
+    "vscode-icons-team.vscode-icons",
+    "formulahendry.code-runner"
+  ],
+  "unwantedRecommendations": [
+    "ms-ceintl.vscode-language-pack-pt-BR"
+  ]
+}

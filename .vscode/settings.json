@@ -1,0 +1,23 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 20,
+  "terminal.integrated.profiles": {
+    "Git Bash": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe"
+    }
+  },
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.formatOnSave": true,
+  "files.autoSave": "off",
+  "window.zoomLevel": 1,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Trigger.dark",
+  "workbench.iconTheme": "symbols",
+  "extensions.autoUpdate": true,
+  "extensions.ignoreRecommendations": false,
+}
