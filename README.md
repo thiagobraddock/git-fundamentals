@@ -183,11 +183,3 @@ git pull origin main
 - Ajuda do Git local: `git help <comando>` (ex.: `git help commit`)
 
 ---
-
-Se quiser, eu posso:
-
-- Adicionar um arquivo `.gitignore` inicial para o seu projeto.
-- Traduzir este README para inglês.
-- Incluir exemplos com GitHub Desktop ou VS Code.
-
-Diga o que prefere.
